@@ -10,13 +10,13 @@
 
 ---
 ### 📁 Features Projects
-#### DevTrack - Java Application
+#### DevTrack - Java Application currently in development
 
 A backend application to manage projects inspired in Git and Jira. 
 
 tech: Java | OOP | JUnit 5 
 
-Repository (soon)
+[Repository](https://github.com/Vasco-Geada/DevTrack)
 
 
 #### [Elemental battle - Java Console game](https://github.com/Elemental-Battle/Elemental_Battle_Project)
