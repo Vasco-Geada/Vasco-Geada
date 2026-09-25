@@ -10,7 +10,7 @@
 
 ---
 ### 📁 Features Projects
-#### DevTrack - Java Application currently in development
+#### 🗃️ DevTrack - Java Application currently in development(https://github.com/Vasco-Geada/DevTrack)
 
 A backend application to manage projects inspired in Git and Jira. 
 
@@ -19,7 +19,7 @@ tech: Java | OOP | JUnit 5
 [Repository](https://github.com/Vasco-Geada/DevTrack)
 
 
-#### [Elemental battle - Java Console game](https://github.com/Elemental-Battle/Elemental_Battle_Project)
+#### 🔥🌊 [Elemental battle - Java Console game](https://github.com/Elemental-Battle/Elemental_Battle_Project)
 
 This is an academic project where we had to develop a game using OOP principles
 
@@ -27,7 +27,7 @@ tech: Java | OOP
 
 [Repository](https://github.com/Elemental-Battle/Elemental_Battle_Project)
 
-#### [Automatic Recognition of Events and Temporal Expressions in Emails: Development of a Model in European Portuguese](https://github.com/Vasco-Geada/email_recognition_pt_pt)
+#### ✉️ [Automatic Recognition of Events and Temporal Expressions in Emails: Development of a Model in European Portuguese](https://github.com/Vasco-Geada/email_recognition_pt_pt)
 
 Development of a modular NLP and Machine Learning system for European Portuguese emails, combining intent classification, structured information extraction and temporal expression normalisation using classical ML and BERT-based models.
 
