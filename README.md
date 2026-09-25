@@ -10,7 +10,7 @@
 
 ---
 ### 📁 Features Projects
-#### 🗃️ [DevTrack - Java Application currently in development] (https://github.com/Vasco-Geada/DevTrack)
+#### 🗃️ [DevTrack - Java Application currently in development](https://github.com/Vasco-Geada/DevTrack)
 
 A backend application to manage projects inspired in Git and Jira. 
 
